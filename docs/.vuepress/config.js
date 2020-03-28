@@ -1,6 +1,7 @@
 module.exports = {
   title: '世外陶源',
   description: 'Yesterday is history，Tomorrow is a mystery，Today is a gift',
+  base: '/',
   port: '5578',
   theme: 'reco',
   head: [
@@ -8,7 +9,7 @@ module.exports = {
   ],
   themeConfig: {
     type: 'blog',
-    logo: '/avatar.png',
+    logo: '/avatar.png', // 左上角logo
     author: 'Junan',
     authorAvatar: '/avatar.png',
     sidebar: 'auto',
