@@ -69,6 +69,7 @@ module.exports = {
       }
     ],
     ['@vuepress/medium-zoom', true],
-    ['vuepress-plugin-smooth-scroll', true]
+    ['vuepress-plugin-smooth-scroll', true],
+    ['@vuepress/medium-zoom', false]
   ]
 }
