@@ -1,8 +1,12 @@
-# blog
 # 个人博客 --- 世外陶源
 
 > 谢谢你在茫茫大海中发现我这一叶小舟
+## 在线访问
+
+[https://taojunnan.com](https://taojunnan.com)
+
 ## 介绍
+
 昵称：Junan  
 性别：男  
 爱好：女  
@@ -13,11 +17,11 @@
 
 搭建框架
 
-	[VuePress](https://vuepress.vuejs.org/zh/)
++ [VuePress](https://vuepress.vuejs.org/zh/)
 
 博客主题
 
-	[vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
++ [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
 
 ## 记录内容
 
