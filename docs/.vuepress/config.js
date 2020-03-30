@@ -70,6 +70,12 @@ module.exports = {
     ],
     ['@vuepress/medium-zoom', true],
     ['vuepress-plugin-smooth-scroll', true],
-    ['@vuepress/medium-zoom', false]
+    ['@vuepress/medium-zoom', false],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-162146357-1'
+      }
+    ]
   ]
 }
