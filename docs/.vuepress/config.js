@@ -19,7 +19,8 @@ module.exports = {
     showFooterThemeLink: false, // 显示或隐藏底部主题的链接
     nav: [
       { text: '首页', link: '/' , icon: 'reco-home'},
-      { text: '时间轴', link: '/timeline/', icon: 'reco-date' }
+      { text: '时间轴', link: '/timeline/', icon: 'reco-date' },
+      { text: '关于我', link: '/about/', icon: 'reco-account' }
     ],
     blogConfig: {
       category: {
