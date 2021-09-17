@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/taojunnan/blog.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["blog", "vue"],
+  "author": "Junan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/taojunnan/blog/issues"
