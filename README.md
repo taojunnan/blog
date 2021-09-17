@@ -10,8 +10,8 @@
 昵称：Junan  
 性别：男  
 爱好：女  
-评价：偶尔写写前端，偶尔玩玩后端，喜欢捣鼓各种稀奇古怪的东西  
-邮箱：[taojianjian32@163.com](mailto:taojianjian32@163.com)
+评价：三分钟热度，喜欢捣鼓各种稀奇古怪的东西  
+邮箱：[taojianjian32@163.com](mailto:taojianjian32@163.com)  
 Github: [https://github.com/taojunnan](https://github.com/taojunnan)
 
 ## 博客相关
